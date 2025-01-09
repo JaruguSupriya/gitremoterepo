@@ -9,3 +9,5 @@ sum_of_even_numbers = sum(even_numbers)
 print("\nOriginal List:", numbers)
 print("Even Numbers:", even_numbers)
 print("Sum of Even Numbers:", sum_of_even_numbers)
+#hai this is my devops program
+#thanku
